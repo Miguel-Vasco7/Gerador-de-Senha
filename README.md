@@ -7,15 +7,28 @@ Bem-vindo ao **Gerador de Senhas**! Este projeto foi desenvolvido por Miguel Vas
 ## 🚀  Funcionalidades
 
 - Geração de senhas seguras e aleatórias.
-- Opções personalizáveis: escolha o comprimento da senha e os tipos de caracteres (números, letras maiúsculas, minúsculas e símbolos).
 - Interface simples e intuitiva para facilitar muito o uso.
 
 ## 💻 Tecnologias Utilizadas
 
 - Python
-- Tkinter (ou outra biblioteca que você tenha usado)
 - Algoritmos de geração aleatória
 
 ## 📦 Instalação
 
 Para usar o Gerador de Senhas, siga estas etapas simples:
+
+**Clone o repositório**:
+   ```bash
+   git clone https://github.com/Miguel-Vasco7/Gerador-de-Senha.git
+   ```
+
+2. **Entre no diretório**:
+   ```bash
+   cd Gerador-de-Senha
+   ```
+
+3. **Execute o programa**:
+   ```bash
+   python Gerador-de-Senha.py
+   ```
